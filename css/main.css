@@ -65,3 +65,17 @@ blockquote {
   transform: translateY(-4px);
   box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.6);
   transition-timing-function: linear, cubic-bezier(0.47, 3.02, 0.31, -1.36); }
+ 
+
+.social-list {
+  max-width: 380px;
+  flex-wrap: wrap; }
+
+.hover-bounce-radius {
+  transition: border-radius .1s linear; }
+
+.hover-bounce-radius:hover {
+  border-radius: 47%;
+  transition: border-radius .3s linear;
+  transition-timing-function: cubic-bezier(0.47, 4.02, 0.31, -1.36); }
+
