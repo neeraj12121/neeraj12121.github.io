@@ -16,15 +16,29 @@ blockquote {
   border-left: .25em solid; }
   
   
+.column {
+  flex-direction: column; }
+
 .container {
   max-width: 1280px;
   margin: 0px auto;
   padding: 0 1.5rem;
   width: 85%; }
 
+ .header-container {
+  margin-top: 2.6rem;
+  z-index: 2; }
+
 .flex {
   display: flex; }
   
+  
+.center {
+  text-align: center;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto; }
+
   .social-icon {
   transition: box-shadow .1s, transform .3s;
   display: inline-block;
