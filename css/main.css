@@ -19,6 +19,9 @@ blockquote {
 .column {
   flex-direction: column; }
 
+.light {
+  font-weight: 300; }
+  
 .container {
   max-width: 1280px;
   margin: 0px auto;
@@ -28,6 +31,9 @@ blockquote {
  .header-container {
   margin-top: 2.6rem;
   z-index: 2; }
+
+.image-container {
+  margin-top: 3.78rem; }
 
 .flex {
   display: flex; }
