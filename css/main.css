@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  padding: 0;
+  margin: 0;
+  line-height: 1.6; }
+
+ul, ol, li {
+  list-style: none;
+  padding-left: 0; }
+
+blockquote {
+  margin: 1.4em 0;
+  padding: 1em 1em 1em 2em;
+  border-left: .25em solid; }
