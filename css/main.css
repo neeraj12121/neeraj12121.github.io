@@ -69,7 +69,8 @@ blockquote {
 
 .social-list {
   max-width: 380px;
-  flex-wrap: wrap; }
+  flex-wrap: wrap;
+  }
 
 .hover-bounce-radius {
   transition: border-radius .1s linear; }
