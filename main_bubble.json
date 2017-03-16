@@ -1,0 +1,65 @@
+{
+	"name":"bubble", "children": [
+		{"name": "Language", "description": "",
+		"children":[
+			{"name": "Python"},
+			{"name": "C++"},
+			{"name": "C"},
+			{"name": "R"}
+		]},
+
+			
+			
+		{"name":"Deployment Skills", 
+		"children":[
+			{"name": "Docker"},
+			{"name": "AWS EC2"},
+			{"name": "S3"},
+			{"name": "SQS"}
+		]},
+		
+		{"name":"Web Technologies",
+		"children":[
+			{"name": "HTML"},
+			{"name": "CSS"},
+			{"name": "JavaScript"},
+			{"name": "jQuery"},
+			{"name": "AngularJS"},
+			{"name": "Django"},
+			{"name": "Bootstrap"},
+			{"name": "Nginx"},
+			{"name": "Restful Web Services"}
+		]},
+		
+		{"name":"Database Systems", 
+		"children":[
+			{"name": "MySQL"},
+			{"name": "MongoDB"},
+			{"name": "SQLite3"},
+			{"name": "Elasticsearch"}
+		]},
+		
+		{"name":"Research Skills", 
+		"children":[
+			{"name": "Machine Learning"},
+			{"name": "Computer Vision"},
+			{"name": "Deep Learning"}
+		]},
+		
+		{"name":"Version Control", 
+		"children":[
+			{"name": "Git"}
+		]},
+		
+		{"name":"Other Technologies", 
+		"children":[
+			{"name": "Celery"},
+			{"name": "RabbitMQ"},
+			{"name": "OpenCV"},
+			{"name": "Apache Spark"}
+		]}
+
+	]
+}
+
+
